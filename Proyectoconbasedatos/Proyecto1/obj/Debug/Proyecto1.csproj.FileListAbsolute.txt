@@ -1,0 +1,28 @@
+C:\Users\PC\source\repos\Proyecto1\Proyecto1\bin\Debug\Proyecto1.exe.config
+C:\Users\PC\source\repos\Proyecto1\Proyecto1\bin\Debug\Proyecto1.exe
+C:\Users\PC\source\repos\Proyecto1\Proyecto1\bin\Debug\Proyecto1.pdb
+C:\Users\PC\source\repos\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Proyecto1\Proyecto1\obj\Debug\Proyecto1.Properties.Resources.resources
+C:\Users\PC\source\repos\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Proyecto1\Proyecto1\obj\Debug\Proyecto1.exe
+C:\Users\PC\source\repos\Proyecto1\Proyecto1\obj\Debug\Proyecto1.pdb
+C:\Users\walke\Downloads\programacion de app\Proyecto1\Proyecto1\bin\Debug\Proyecto1.exe.config
+C:\Users\walke\Downloads\programacion de app\Proyecto1\Proyecto1\bin\Debug\Proyecto1.exe
+C:\Users\walke\Downloads\programacion de app\Proyecto1\Proyecto1\bin\Debug\Proyecto1.pdb
+C:\Users\walke\Downloads\programacion de app\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.AssemblyReference.cache
+C:\Users\walke\Downloads\programacion de app\Proyecto1\Proyecto1\obj\Debug\Proyecto1.exe.config
+C:\Users\walke\Downloads\programacion de app\Proyecto1\Proyecto1\obj\Debug\Proyecto1.Properties.Resources.resources
+C:\Users\walke\Downloads\programacion de app\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.GenerateResource.cache
+C:\Users\walke\Downloads\programacion de app\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\walke\Downloads\programacion de app\Proyecto1\Proyecto1\obj\Debug\Proyecto1.exe
+C:\Users\walke\Downloads\programacion de app\Proyecto1\Proyecto1\obj\Debug\Proyecto1.pdb
+C:\Users\PC\Desktop\Proyectoconbasedatos\Proyecto1\bin\Debug\Proyecto1.exe.config
+C:\Users\PC\Desktop\Proyectoconbasedatos\Proyecto1\bin\Debug\Proyecto1.exe
+C:\Users\PC\Desktop\Proyectoconbasedatos\Proyecto1\bin\Debug\Proyecto1.pdb
+C:\Users\PC\Desktop\Proyectoconbasedatos\Proyecto1\obj\Debug\Proyecto1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Proyectoconbasedatos\Proyecto1\obj\Debug\Proyecto1.Properties.Resources.resources
+C:\Users\PC\Desktop\Proyectoconbasedatos\Proyecto1\obj\Debug\Proyecto1.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Proyectoconbasedatos\Proyecto1\obj\Debug\Proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Proyectoconbasedatos\Proyecto1\obj\Debug\Proyecto1.exe
+C:\Users\PC\Desktop\Proyectoconbasedatos\Proyecto1\obj\Debug\Proyecto1.pdb
